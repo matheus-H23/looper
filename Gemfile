@@ -46,7 +46,7 @@ group :development do
   # An IRB alternative and runtime developer console
   gem 'pry', '~> 0.12.2'
   # A Ruby static code analyzer and formatter, based on the community Ruby style guide. https://docs.rubocop.org
-  gem 'rubocop', '~> 0.42.0', require: false
+  gem 'rubocop', '~> 0.48.1', require: false
   # Better error page for Rack apps
   gem "better_errors"
 
